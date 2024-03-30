@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image1.jpg",
+    "title": "AI App Development",
+    "description": "We turn your business vision into innovative solutions and deliver them fast to the market. "
+  },
+  {
+    "id": 2,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image2.jpg",
+    "title": "SaaS development",
+    "description": "SaaS developmentOne-stop-shop for your Ecommerce business! We power up your sales across all business models with Ecommerce custom."
+  },
+  {
+    "id": 3,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image3.jpg",
+    "title": "Enterprise software development",
+    "description": "Streamline your vital business processes with our enterprise software solutions: ERP, CRM, HRM, SCM, DMS, etc."
+  },
+  {
+    "id": 4,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image4.jpg",
+    "title": "Ecommerce development",
+    "description": "One-stop-shop for your Ecommerce business! We power up your sales across all business models with Ecommerce custom"
+  },
+  {
+    "id": 5,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image5.jpg",
+    "title": "Enterprise software development",
+    "description": "Streamline your vital business processes with our enterprise software solutions: ERP, CRM, HRM, SCM, DMS, etc."
+  },
+  {
+    "id": 6,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image6.jpg",
+    "title": "Web design and development",
+    "description": "instinctools develops scalable and efficient web solutions from scratch or transforms legacy with cutting-edge tech."
+  },
+  {
+    "id": 7,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image7.jpg",
+    "title": "Mobile app development",
+    "description": "instinctools builds various custom mobile solutions for B2B, B2C, and B2E. We craft enterprise and consumer native iOS, Android, or cross-platform applications."
+  },
+  {
+    "id": 8,
+    "image": "https://cdn-hokdj.nitrocdn.com/xTVZIceRirelUWcvTeSrIReGRrnfbTIP/assets/images/optimized/rev-fbdef97/www.instinctools.com/wp-content/uploads/2023/12/home-engineering-new-image8.jpg",
+    "title": "DevOps as a service",
+    "description": "We significantly improve product quality and minimize time to market for our customers with instinctools DevOps practice."
+  }
+]
