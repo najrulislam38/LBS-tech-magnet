@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background: #000;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+}
+
+p{
+  font-family: "Roboto Mono", monospace;
+}
