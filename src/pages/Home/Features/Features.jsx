@@ -16,15 +16,13 @@ const Features = () => {
       })
       .then((data) => {
         // Work with your JSON data here
-        console.log(data);
+        // console.log(data);
         setFeatures(data);
       })
       .catch((error) => {
         console.error("There was a problem fetching the JSON file:", error);
       });
   }, []);
-
-  console.log(features);
 
   return (
     <div className="py-20">

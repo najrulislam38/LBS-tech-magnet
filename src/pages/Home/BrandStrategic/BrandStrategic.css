@@ -1,0 +1,10 @@
+.strategic {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url("./assets/tech-background.jpg"),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8));
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-blend-mode: color;
+}

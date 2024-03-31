@@ -1,15 +1,16 @@
 import { FaArrowCircleRight } from "react-icons/fa";
+import PropTypes from "prop-types";
 
 const ServiceCard = ({ service }) => {
-  const { id, title, image, description } = service || {};
+  const { title, image, description } = service || {};
   return (
-    <div className="p-3 group border-s border-b-4 border-b-transparent hover:border-b-secondary flex flex-col justify-between">
+    <div className="p-3 group border-s border-b-4 border-b-transparent hover:border-b-secondary flex flex-col justify-between duration-300">
       <div className="">
         <div className="overflow-hidden mb-4">
           <img
             src={image}
             alt=""
-            className=" w-full group-hover:scale-105 duration-300"
+            className=" w-full group-hover:scale-110 duration-300"
           />
         </div>
 
