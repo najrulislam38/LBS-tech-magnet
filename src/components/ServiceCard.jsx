@@ -14,7 +14,7 @@ const ServiceCard = ({ service }) => {
           />
         </div>
 
-        <h3 className="text-lg md:text-xl font-semibold ">{title}</h3>
+        <h3 className="text-lg md:text-xl font-semibold mb-2 ">{title}</h3>
         <p className="text-sm">{description}</p>
       </div>
       <button className="my-3 group-hover:text-secondary ">
@@ -23,6 +23,10 @@ const ServiceCard = ({ service }) => {
       </button>
     </div>
   );
+};
+
+ServiceCard.propTypes = {
+  service: PropTypes.func,
 };
 
 export default ServiceCard;
