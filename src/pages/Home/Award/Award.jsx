@@ -11,7 +11,7 @@ const Award = () => {
     <div className="py-20">
       <Container>
         <Title Title={"Awards and recognition"}></Title>
-        <div className="flex flex-wrap gap-10 justify-between items-center py-10">
+        <div className="flex flex-wrap gap-10 justify-start lg:justify-between items-center py-10">
           <div className="w-[100px] lg:w-[150px]  h-[100px] lg:h-[150px] bg-gradient-to-t from-primary to-transparent rounded-md p-4">
             <img
               src={award1}

@@ -4,6 +4,7 @@ import Blogs from "./Blogs/Blogs";
 import BrandStrategic from "./BrandStrategic/BrandStrategic";
 import Features from "./Features/Features";
 import Gallery from "./Gallery/Gallery";
+import Reviews from "./Reviews/Reviews";
 
 const Home = () => {
   return (
@@ -14,6 +15,7 @@ const Home = () => {
       <Award />
       <BrandStrategic />
       <Blogs />
+      <Reviews />
     </div>
   );
 };
