@@ -9,12 +9,12 @@ const Contact = () => {
       <section>
         <div id="contact-header" className="flex justify-center items-center">
           <div>
-            <p className=" text-center text-3xl md:text-5xl font-semibold tracking-widest">
+            <h2 className=" text-center text-2xl md:text-4xl font-semibold tracking-widest">
               Get In Touch
-            </p>
-            <h2 className="text-3xl md:text-4xl mt-6 text-white text-center font-bold  drop-shadow-2xl capitalize">
-              Lets make something awesome together!
             </h2>
+            <p className="text-lg md:text-2xl mt-6 text-white text-center font-bold  drop-shadow-2xl capitalize">
+              Lets make something awesome together!
+            </p>
           </div>
         </div>
         <div className="max-w-[1400px] mx-auto px-5 md:px-10 lg:px-20 my-20 min-h-[60vh] ">

@@ -22,7 +22,7 @@ const Reviews = () => {
       </Container>
       <div className="">
         <div className="w-full">
-          <div className="p-10">
+          <div className="p-10 max-w-screen-2xl mx-auto">
             <Swiper
               navigation={true}
               modules={[Navigation]}
@@ -94,7 +94,7 @@ const Reviews = () => {
               </SwiperSlide>
               <SwiperSlide>
                 <Container>
-                  <div className="flex flex-col md:flex-row gap-10 justify-center md:justify-between items-center p-10 md:p-16 ">
+                  <div className="flex flex-col md:flex-row gap-10 justify-center md:justify-between items-center py-10 px-1  md:p-16 ">
                     <div className="min-w-[350px] flex flex-col justify-center items-center ">
                       <div className="w-[180px] h-[180px] rounded-full overflow-hidden mb-5">
                         <img
