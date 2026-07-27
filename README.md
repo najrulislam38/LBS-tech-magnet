@@ -1,8 +1,4 @@
-# React + Vite
+# LBS Tech Brand Building Agency
+LBS Tech Magnet, a renowned international brand building agency specializing in digital branding services, is dedicated to assisting brands in redefining their experiences and driving business growth.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### [Live_preview](https://cozy-kashata-c44104.netlify.app/) 
